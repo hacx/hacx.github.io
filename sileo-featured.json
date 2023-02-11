@@ -1,0 +1,19 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 159}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"https://hacx.org/repo/ioscallrecorder.jpg",
+		   "title":"Super Recorder X+",
+         "package":"org.hacx.superrecorderxplus",
+         "hideShadow":false
+      },
+      {  
+         "url":"https://hacx.org/repo/callrecorderxplus_featured.png",
+         "title":"Call Recorder X+",
+         "package":"org.hacx.callrecorderxplus",
+         "hideShadow":false
+      }
+   ]
+}

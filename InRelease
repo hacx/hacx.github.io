@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: hAcx Repo
+Label: hAcx
+Suite: stable
+Version: 1.2
+Codename: hacxrepo
+Architectures: iphoneos-arm
+Components: main
+Description: hAcx official tweaks & applications
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSbkjlyUYdOJvZl0PJjzuG444ZgTwUCY6D4AAAKCRBjzuG444Zg
+T62PAQCFb2XAISgQZyubTChatp8L6aVa8WAe+XfRy76JLoDXzAEA/jYAhK3gpC1U
+WaUORGhXtQ+1H4efnBmWc/w89zCKFwc=
+=5axO
+-----END PGP SIGNATURE-----

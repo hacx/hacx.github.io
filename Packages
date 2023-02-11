@@ -1,0 +1,189 @@
+Package: org.hacx.callrecorderxplus
+Version: 3.25-5
+Architecture: iphoneos-arm
+Maintainer: hAcx <callrecorder@hacx.org>
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.6)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.superrecorderxplus, org.hacx.superrecorder.ios9
+Filename: ./deb/org.hacx.callrecorderxplus-3.25-5.deb
+Size: 22202074
+MD5sum: 64e1563d44bff24f7859223b31ba9fa7
+SHA1: 262b5f86c5ba6ce3fa7a88f3ed511bdab542b032
+SHA256: dcabe8ed961995cc305cc6be79eb3b9d01a76f6b8526d60ef2a51f0bb7ec2bb0
+Section: Tweaks
+Description: Native Call Recorder for iOS 12,13,14
+Tag: purpose::extension, compatible_min::ios12
+Author: hAcx <callrecorder@hacx.org>
+Depiction: https://hacx.org/cydia/callrecorderxplus_depiction.php
+Icon: file:///Applications/CallRecorder.app/Icon.png
+Name: Call Recorder X+
+Sileodepiction: https://hacx.org/cydia/com.hacx.callrecorderxplus_sileo_depiction.json
+
+Package: org.hacx.callrecorderxplus
+Version: 3.30
+Architecture: iphoneos-arm
+Maintainer: hAcx <callrecorder@hacx.org>
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.8)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.superrecorderxplus, org.hacx.superrecorder.ios9
+Filename: ./deb/org.hacx.callrecorderxplus-3.30.deb
+Size: 22174446
+MD5sum: 3ea67b1b7ae7933ddd95691aa92b62f1
+SHA1: d3a01436933efc3596019a02ed367199aa7a780f
+SHA256: d6185517540498d1a8e19b6dd53141ec307786d247634b2ca6c87a0e2c46f28b
+Section: Tweaks
+Description: Native Call Recorder for iOS 12-15
+Tag: purpose::extension, compatible_min::ios12
+Author: hAcx <callrecorder@hacx.org>
+Depiction: https://hacx.org/cydia/callrecorderxplus_depiction.php
+Icon: file:///Applications/CallRecorder.app/Icon.png
+Name: Call Recorder X+
+Sileodepiction: https://hacx.org/cydia/com.hacx.callrecorderxplus_sileo_depiction.json
+
+Package: org.hacx.callrecorderxplus
+Version: 3.31
+Architecture: iphoneos-arm
+Maintainer: hAcx <callrecorder@hacx.org>
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.8)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.superrecorderxplus, org.hacx.superrecorder.ios9
+Filename: ./deb/org.hacx.callrecorderxplus-3.31.deb
+Size: 22548166
+MD5sum: 6f06f63568281b4faeebbcec134fee5c
+SHA1: 6812be3ddb08282798f087d42a9db1ee9ce8ee4a
+SHA256: ce7dc2ce50d3de325a685eb975eb809ab8524f05f0416899c3b001967c187caa
+Section: Tweaks
+Description: Native Call Recorder for iOS 12-16
+Tag: purpose::extension, compatible_min::ios12
+Author: hAcx <callrecorder@hacx.org>
+Depiction: https://hacx.org/cydia/callrecorderxplus_depiction.php
+Icon: file:///Applications/CallRecorder.app/Icon.png
+Name: Call Recorder X+
+Sileodepiction: https://hacx.org/cydia/com.hacx.callrecorderxplus_sileo_depiction.json
+
+Package: org.hacx.hacxdaemon
+Version: 3.6
+Architecture: iphoneos-arm
+Maintainer: Yaniv Danan (hAcx)
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./deb/org.hacx.hacxdaemon_3.6_iphoneos-arm.deb
+Size: 200138
+MD5sum: 73ec01ff17ab307b5deaf15d313a9653
+SHA1: ee9c3d4ef5be0d13717f5d8b723f4d332c54213c
+SHA256: c0d786fc84bab1f8e35953ef20a15d90c5265135c9a851478aa026aa71a5e14f
+Section: Addons
+Description: hAcx Daemon includes various helper functions for @hAcx tweaks & apps
+Author: Yaniv Danan (hAcx)
+Name: hAcx Daemon
+
+Package: org.hacx.hacxdaemon
+Version: 3.8
+Architecture: iphoneos-arm
+Maintainer: Yaniv Danan (hAcx)
+Installed-Size: 2376
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./deb/org.hacx.hacxdaemon_3.8_iphoneos-arm.deb
+Size: 201488
+MD5sum: ae280754d7d30697d797e73bd4983a43
+SHA1: 70acd6d7eecc5da81431c41de23a2fcc9ac704a1
+SHA256: 2dea52aa653e3ffa02cd3650c9adac961c96dab4b84cf7eaab8a8ee854d18f64
+Section: Addons
+Description: hAcx Daemon includes various helper functions for @hAcx tweaks & apps
+Author: Yaniv Danan (hAcx)
+Name: hAcx Daemon
+
+Package: org.hacx.superrecorderxplus
+Version: 3.25-5
+Architecture: iphoneos-arm
+Maintainer: hAcx <superrecorder@hacx.org>
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.6)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.callrecorderxplus, org.hacx.superrecorder.ios9
+Replaces: org.hacx.superrecorderxplus.beta
+Filename: ./deb/org.hacx.superrecorderxplus-3.25-5.deb
+Size: 31921240
+MD5sum: ce28c8a60c42bf904cf4f7567d96c5af
+SHA1: c4882f72e8189c6dc3788a59362cbf7d7d17f723
+SHA256: 187b38691c1df6ac6930760785ed3597d3286d2978ee0ddef6f7b1b1ffd08c8e
+Section: Tweaks
+Description: Native Call Recorder & Voice Amplifier for iOS 12,13,14
+Tag: purpose::extension, compatible_min::ios12
+Author: hAcx <superrecorder@hacx.org>
+Depiction: https://hacx.org/cydia/superrecorderxplus_depiction.php
+Icon: file:///Applications/SuperRecorder.app/Icon.png
+Name: Super Recorder X+
+Sileodepiction: https://hacx.org/cydia/com.hacx.superrecorderxplus_sileo_depiction.json
+
+Package: org.hacx.superrecorderxplus
+Version: 3.30
+Architecture: iphoneos-arm
+Maintainer: hAcx <superrecorder@hacx.org>
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.8)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.callrecorderxplus, org.hacx.superrecorder.ios9
+Replaces: org.hacx.superrecorderxplus.beta
+Filename: ./deb/org.hacx.superrecorderxplus-3.30.deb
+Size: 31890440
+MD5sum: 73bc7095a43318770c6f9443f2e51b42
+SHA1: 65c6ab6d381dba36ed018355836cb48b53eb1cf6
+SHA256: 2d423466ef77b4f3ff84e06bfd9ce7800e737ca42cd0188c4e9fe5abcd3a7096
+Section: Tweaks
+Description: Native Call Recorder & Voice Amplifier for iOS 12-15
+Tag: purpose::extension, compatible_min::ios12
+Author: hAcx <superrecorder@hacx.org>
+Depiction: https://hacx.org/cydia/superrecorderxplus_depiction.php
+Icon: file:///Applications/SuperRecorder.app/Icon.png
+Name: Super Recorder X+
+Sileodepiction: https://hacx.org/cydia/com.hacx.superrecorderxplus_sileo_depiction.json
+
+Package: org.hacx.superrecorderxplus
+Version: 3.31
+Architecture: iphoneos-arm
+Maintainer: hAcx <superrecorder@hacx.org>
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.8)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.callrecorderxplus, org.hacx.superrecorder.ios9
+Replaces: org.hacx.superrecorderxplus.beta
+Filename: ./deb/org.hacx.superrecorderxplus-3.31.deb
+Size: 32778408
+MD5sum: c1b2d63ea50a492b683119a82d61401f
+SHA1: 08a51007bce84538543d4542494bca8e2f725d64
+SHA256: df74141a6bb0e28991f1edd3cd9b4e3d5e0d0716ddbdfdfa5c2243ac4cc33d6f
+Section: Tweaks
+Description: Native Call Recorder & Voice Amplifier for iOS 12-16
+Tag: purpose::extension, compatible_min::ios12
+Author: hAcx <superrecorder@hacx.org>
+Depiction: https://hacx.org/cydia/superrecorderxplus_depiction.php
+Icon: file:///Applications/SuperRecorder.app/Icon.png
+Name: Super Recorder X+
+Sileodepiction: https://hacx.org/cydia/com.hacx.superrecorderxplus_sileo_depiction.json
+
+Package: org.hacx.volumeamplifier
+Version: 2.07
+Architecture: iphoneos-arm
+Maintainer: Yaniv Danan (hacx)
+Depends: firmware (>= 10.0), mobilesubstrate
+Replaces: repo.so.volumeamplifier
+Filename: ./deb/org.hacx.volumeamplifier-2.07.deb
+Size: 4363628
+MD5sum: 18910a95245b1fc6b1cb1f416e22aad7
+SHA1: 86e38f95ff14fb657c909530b2644f338e2142ba
+SHA256: 9919963d6085fb1259540998518302c2c64bd6f56dc2ebabf04555925d0f8a9d
+Section: Tweaks
+Description: Amplify Volume by 200%
+Tag: purpose::extension, compatible_min::ios11, compatible_max::ios20
+Author: Yaniv Danan (hacx)
+Name: Volume Amplifier
+
+Package: org.hacx.volumeamplifier
+Version: 2.08
+Architecture: iphoneos-arm
+Maintainer: Yaniv Danan (hacx)
+Depends: firmware (>= 12.0), mobilesubstrate
+Replaces: repo.so.volumeamplifier
+Filename: ./deb/org.hacx.volumeamplifier-.deb
+Size: 4289446
+MD5sum: 1701e94d09bf033f10236583dbb187bd
+SHA1: 07b844c2862abd304f7d6ae11d3e8588196b45f4
+SHA256: e06da8a9d980e3ab387ca89efdacd34ed83232be2dcb1d2e9535c7ff20984421
+Section: Tweaks
+Description: Amplify Volume by 200%
+Tag: purpose::extension, compatible_min::ios11, compatible_max::ios20
+Author: Yaniv Danan (hacx)
+Name: Volume Amplifier
+

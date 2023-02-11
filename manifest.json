@@ -1,0 +1,33 @@
+{
+  "short_name": "hAcx",
+  "name": "hAcx Sileo/Cydia Repository",
+  "icons": [
+    {
+      "src": "CydiaIcon@3x.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    }
+  ],
+  "start_url": "/repo",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/repo",
+  "theme_color": "#3367D6",
+  "description": "hAcx Apps & Tweaks",
+  "shortcuts": [
+    {
+      "name": "hAcx Repository",
+      "short_name": "hAcx",
+      "description": "View hAcx Apps & Tweaks for iOS",
+      "url": "https://hacx.org/repo",
+      "icons": [{ "src": "callrecorderxplus_featured.jpg", "sizes": "550x442" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "callrecorderxplus_featured.jpg",
+      "type": "image/png",
+      "sizes": "550x442"
+    }
+  ]
+}
