@@ -1,0 +1,210 @@
+@media only screen and (min-width: 1500px) and (max-width: 1599px) {
+    
+}
+@media only screen and (min-width: 1024px) and (max-width: 1599px) {
+    .install-outer {padding: 80px 0 40px;}
+    .iphone{max-width: 240px;}
+    .i-content{font-size: 14px; line-height: 20px;height: 95px;}
+    h2{font-size: 30px; line-height: 32px;}
+    h3{font-size: 22px; line-height: 24px;}
+    h4 {font-size: 20px; line-height: 21px; padding-bottom: 7px;}
+    p{font-size:16px; line-height: 20px;}
+    .grid-left, .grid-left img{width: 60px;}
+    .grid-block{max-width: 360px;margin-bottom: 50px;}
+    .fr{float: right;}
+    .grid-block p{font-size: 14px; line-height: 16px;}
+    .faq-inner{margin-top: 110px; padding: 220px 90px 30px;} 
+    .faq-inner ul {margin: 40px 0 0;}
+    .faq-inner ul li {margin: 0 0 40px;}
+    .faq-inner h3{font-size: 18px; line-height: 20px; font-weight: normal;}
+    .footer-inner {padding: 30px 0;}
+    .social-icon a {font-size: 20px; height: 40px; line-height: 40px; width: 40px;}
+    .social-icon a span {line-height: 40px;}
+    .copyright {font-size: 14px; line-height: 16px; margin-top: 15px;}
+    .feature span {font-size: 70px; padding-bottom: 15px;}
+    .feature span.icon-icon13 {font-size: 55px;}
+    .feature {padding-bottom: 70px;}
+    .features-area {padding-bottom: 30px;}
+    .show-feature-block a {font-size: 42px;line-height: 42px; padding-bottom: 10px;}
+    .show-feature-block a:after{ bottom: -24px;font-size: 24px; height: 24px; line-height: 24px;width: 24px;}
+    .features-phone-block {padding-bottom: 200px;}
+    .logo img{width:50px;}
+    .logo span {font-size: 26px;line-height: 26px; margin: 12px 0 0 10px;}
+    .navbar-nav > li > a {font-size: 18px; line-height: 20px;padding: 0 20px;}
+    .menu {margin-top: 13px;}
+    .banner{height: 700px; overflow: hidden;}
+    .banner-overlay h2{font-size: 40px; line-height: 40px;}
+    .features-outer {background-size: 100% auto;}
+	.features-phone-block {text-align: center;padding-bottom: 160px;}
+	.center-image {margin: 285px 0 0 0;float: none;margin-right: 0;}
+	.center-image img {max-width: 515px;}
+	.top-feature1 {text-align: left;right: 156px;top: -140px;width: 345px;}
+	.top-feature1:after {background-size: 50% auto;bottom: -218px;right: 148px;}
+	.top-feature1:before {font-size: 56px;left: -78px;top: -6px;}
+	.top-feature2 {text-align: left;left: 115px;top: -1px;width: 375px;}
+	.top-feature2:after {background-size: 50% auto;bottom: -182px;right: 65px;}
+	.top-feature2:before {font-size: 56px;left: -70px;top: -7px;}
+	.top-feature3 {text-align: left;left: 125px;bottom: -77px;width: 300px;}
+	.top-feature3:after {background-size: 50% auto;bottom: -35px;right: 80px;}
+	.top-feature3:before {font-size: 56px;left: -62px;top: -5px;}
+	.top-feature1 h4, .top-feature2 h4, .top-feature3 h4 {font-size: 20px;line-height: 22px;}
+	.top-feature1 p, .top-feature2 p, .top-feature3 p {font-size: 15px;line-height: 18px;}
+	.show-feature-block {bottom: -71px;right: 0;width: 340px;}
+	.show-feature-block a {font-size: 47px;line-height: 57px;}
+	.show-feature-block a:after {bottom: -21px;font-size: 30px;height: 30px;line-height: 30px;width: 30px;}
+    .banner-overlay {margin-right: -420px;max-width: 360px; right: 50%;  top: 160px;}
+    .overlay-btn-first{width:40%; margin-left:6px;}
+    .overlay-btn-first a{background-size:20%; background-position: 10px center;font-size: 12px; line-height: 14px; padding: 10px 10px 10px 40px;}
+    .overlay-btn-first a span{font-size: 26px; line-height: 28px;}
+    .overlay-btn-second a span {font-size: 16px;}
+    .overlay-btn-second a {font-size:22px;line-height:24px;padding: 18px 20px;}
+    .overlay-btn-second {margin: 0 0 0 10px; width: 55%;}
+    .overlay-btn-second img { margin-top: 12px; max-width: 80px;}
+    
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .iphone{max-width: 220px;}
+    .i-content{font-size: 13px; line-height: 20px; height: 90px;}
+    .screen-list ul li{margin-bottom: 30px;}
+    p{font-size: 13px; line-height: 18px;}
+    h3{font-size: 20px; line-height: 22px;}
+    .grid-left, .grid-left img{width: 60px;}
+     h2{font-size: 36px; line-height: 37px;}
+    .install-title {padding-bottom: 30px;}
+    .grid-block {margin-bottom: 40px;}
+    .install-outer {padding: 60px 0 20px;}
+    .feature {padding-bottom: 40px; max-width: 320px;}
+    .feature span{font-size: 45px; padding-bottom: 10px;}
+    .feature span.icon-icon13 {font-size: 40px;}
+    .feature h4{font-size: 18px; line-height: 20px; padding-bottom: 0;}
+    .feature p{font-size: 14px; line-height: 20px;} 
+    .faq-inner h2{font-size:22px; line-height:24px;}
+	.faq-inner{padding:185px 60px 30px; background-size: 100% auto; margin-top: 105px;}
+    .faq-inner p{font-size: 14px; line-height:20px;}
+    .faq-inner ul {margin: 30px 0 0;}
+    .faq-inner h3{font-size:18px; line-height:21px;}
+    .faq-inner ul li {margin: 0 0 30px;}
+    .banner-overlay h2 {font-size: 40px;line-height: 40px;}
+    .banner-overlay {margin-right: -360px;max-width: 360px; right: 50%;  top: 160px;}
+    .overlay-btn-outer { margin-top: 20px;}
+    .overlay-btn-first{width:40%; margin-left:6px;}
+    .overlay-btn-first a{background-size:20%; background-position: 10px center; 
+        font-size: 12px; line-height: 14px; padding: 10px 10px 10px 40px;}
+    .overlay-btn-first a span{font-size: 26px; line-height: 28px;}
+    .overlay-btn-second a span {font-size: 16px;}
+    .overlay-btn-second a {font-size:22px;line-height:24px;padding: 18px 20px;}
+    .overlay-btn-second {margin: 0 0 0 10px; width: 55%;}
+    .overlay-btn-second img { margin-top: 12px; max-width: 80px;}
+    .navbar-nav{margin-top:7px;}
+    .navbar-nav > li > a {font-size: 16px; line-height: 22px; padding: 0 12px;}
+    .features-outer {background-size: 100% auto;}
+	.features-phone-block {text-align: center;padding-bottom: 145px;}
+	.center-image {margin: 155px 0 0 0;float: none;margin-right: 0;}
+	.center-image img {max-width: 350px;}
+	.top-feature1 {text-align: left;right: -4px;top: -122px;width: 395px;}
+	.top-feature1:after {background-size: 35% auto;bottom: -219px;right: 240px;}
+	.top-feature1:before {font-size: 55px;left: -72px;top: -5px;}
+	.top-feature2 {text-align: left;left: 50px;top: -15px;width: 360px;}
+	.top-feature2:after {background-size: 35% auto;bottom: -183px;right: 110px;}
+	.top-feature2:before {font-size: 55px;left: -65px;top: 6px;}
+	.top-feature3 {text-align: left;left: 68px;bottom: -83px;width: 345px;}
+	.top-feature3:after {background-size: 35% auto;bottom: -55px;right: 130px;}
+	.top-feature3:before {font-size: 55px;left: -58px;top: -3px;}
+	.top-feature1 h4, .top-feature2 h4, .top-feature3 h4 {font-size: 20px;line-height: 22px;}
+	.top-feature1 p, .top-feature2 p, .top-feature3 p {font-size: 16px;line-height: 21px;}
+	.show-feature-block {bottom: -80px;right: 0;width: 280px;}
+	.show-feature-block a {font-size: 40px;line-height: 42px;}
+	.top-feature2 p {padding-right: 35px;}
+	.show-feature-block a:after {bottom: -23px;font-size: 30px;height: 30px;line-height: 30px;width: 30px;}
+    .logo span { font-size: 26px;line-height: 28px; margin: 25px 0 0 10px;}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {     
+     h3{font-size: 26px; line-height: 28px;}
+     h2{font-size: 40px; line-height: 41px;}
+     p{font-size: 20px; line-height: 24px;}
+    .screen-list ul li{width: 100%; text-align: center; margin-bottom: 30px;}
+    .install-outer {padding: 30px 0 10px;}    
+    .install-title {padding-bottom: 30px;}
+    .grid-block {margin-bottom: 40px;}
+    .grid-left {width: 100%; display: block; padding: 0; text-align: center;}
+    .grid-right {width: 100%; display: block; padding: 20px 0 0; text-align: center;}
+    .feature {padding-bottom: 30px;}
+    .feature span{font-size: 60px; padding-bottom: 10px;}
+    .feature span.icon-icon13 {font-size: 50px;}
+    .feature h4{font-size: 20px; line-height: 22px; padding-bottom: 5px;}
+    .feature p{font-size: 18px; line-height: 22px;}
+    .faq-inner h2{font-size:20px; line-height:26px;}
+    .faq-inner {padding:25px 20px 10px; margin: 0; background:none;margin-top:0px;}
+    .faq-inner h3{font-size:17px; line-height:19px;}
+    .faq-inner p{font-size:14px; line-height:16px;}
+    .faq-inner ul {margin:20px 0 0;}
+    .faq-inner ul li {margin: 0 0 25px;}
+    .logo span { font-size: 28px;line-height: 33px;}
+    .banner-overlay {max-width:450; margin-right:0px; right:0; top:50%; margin-top:-40px; padding: 0 10px;}
+    .banner-overlay h2{font-size:32px; line-height:34px; text-align: center;}
+    .overlay-btn-outer{margin-top: 18px;}
+    .overlay-btn-first a{font-size: 12px; line-height: 14px;  padding: 15px 0 20px 88px;}
+    .overlay-btn-first a span { font-size:20px; line-height:22px;}
+    .overlay-btn-first{width:39%;}
+    .overlay-btn-second{width:52%; margin: 0 10px 0 15px;}
+    .overlay-btn-second a { font-size:26px;line-height:30px;padding: 19px 10px 20px;}
+    .overlay-btn-second a span {font-size: 20px;}
+    .menu{width: 100%;}
+    .navbar-toggle{margin-top:25px;}
+    .navbar-collapse {background: rgba(255,255,255,.9); padding: 0; }
+    .navbar-nav{margin:0px 10px; padding: 20px 0 10px;}
+    .navbar-nav li{margin:0 0 10px 0; text-align: center;}
+    .navbar-nav li a{color: #000;}
+    .navbar-nav li a:hover{color: #009cde;}.no-animation{display:block;}
+    .features-outer {background-size: 100% auto;}
+	.features-phone-block {text-align: center;padding-bottom: 60px;}
+	.center-image {margin: 30px 0 0 0;float: none;margin-right: 0;}
+	.center-image img {max-width: 265px;margin-bottom: 25px;}
+	.top-feature1 {position: inherit;text-align: left;right: inherit;top: inherit;width: 100%;float: left;padding: 66px 0 30px;}
+	.top-feature1:after, .top-feature2:after, .top-feature3:after {content: none;}
+	.top-feature1:before {font-size: 55px;left: 0;top: -10px;}
+	.top-feature2 {position: inherit;text-align: left;left: inherit;top: inherit;width: 100%;float: left;padding: 66px 0 30px;}
+	.top-feature2:before {font-size: 55px;left: 0;top: -10px;}
+	.top-feature3 {position: inherit;text-align: left;left: inherit;bottom: inherit;width: 100%;float: left;padding: 66px 0 30px;}
+	.top-feature3:before {font-size: 55px;left: 0;top: -10px;}
+	.top-feature1 h4, .top-feature2 h4, .top-feature3 h4 {font-size: 20px;line-height: 22px;padding: 0 0 5px;}
+	.top-feature1 p, .top-feature2 p, .top-feature3 p {font-size: 16px;line-height: 21px;}
+	.show-feature-block {position: inherit;bottom: inherit;right: inherit;width: 100%;float: left;}
+	.show-feature-block a {font-size: 35px;line-height: 37px;padding-bottom: 15px;}
+	.show-feature-block a:after {bottom: -25px;font-size: 30px;height: 30px;line-height: 30px;width: 30px;}
+	.features-area {padding-top: 15px;}
+	.features-area h2 {padding-bottom: 30px;}
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+    .i-content{font-size: 18px; line-height: 22px; height: 100px;}
+
+    
+    .banner-overlay h2{color: #000; font-size:20px; line-height:22px;}
+    .banner-overlay{position: inherit;  max-width: 420px; margin: 20px auto; float: none;}
+    .overlay-btn-first{width:100%; margin:0 0 20px 0;}
+    .overlay-btn-first a{ padding: 15px 0 20px 0px;}
+    .overlay-btn-second{width:100%; margin: 0;}
+    .overlay-btn-outer{margin-bottom: 20px;}
+    .navbar-toggle{margin-top:8px;}
+    .navbar-nav{margin:0px 10px;}
+    .navbar-nav li a{color: #fff;}
+    .navbar-collapse {background:none;}
+    .nav.navbar-nav{margin: 0;}
+    .logo a {width:35px; height:35px;}
+    .logo span{margin-top: 8px;}
+    .arrow-dwn i{ color: #000;}
+    .arrow-dwn a:hover i{ color: #009cde;}
+    .arrow-dwn{width:100%; float: left; position: inherit; text-align: center; bottom:0; left:0; margin: 0 0 20px 0;}
+    .logo span { font-size:18px;line-height:22px;}
+    .navbar-nav{padding:12px 0 0;}
+    .navbar-nav li{margin: 0 0 6px;}
+    .navbar-nav > li > a {font-size: 18px;line-height: 24px;}
+}
+

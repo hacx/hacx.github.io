@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie ie8" lang="en-US"><![endif]-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>iOS Call Recorder | Native iPhone Call/VoIP Call Recorder</title>
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width"/>
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="iOS Call Recorder is the first Native Phone Call & VoIP recording application for iPhone released to Cydia with over 2,000,000 installations till now."
+<meta name="keywords" content="Call Recorder, VoIP, Viber, Skype, Signal, WeChat, Telegram, FaceTime, CallRecord, iPhone, native call recorder, jailbreak, Cydia">
+
+<meta name="og:title" content="iPhone Call Recorder - Fully Native !">
+<meta name="og:description" content="iOS Call Recorder is the first Native Phone Call & VoIP recording application for iPhone in Cydia with over 2,000,000 installations till now.">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@hAcx">
+<meta name="twitter:title" content="iPhone Call Recorder - Cydia">
+<meta name="twitter:description" content="Ever wanted to record calls on your iPhone ? now you can with iOS Call Recorder. it can also record VoIP calls such as Skype, Viber, Telegram, Signal, Line and many more.  just add https://repo.packix.com to your cydia repositories">
+<meta name="twitter:image" content="http://www.ioscallrecorder.com/images/content/phone.png">
+
+<link rel="shortcut icon" href="favicon.ico"/>
+<link rel="canonical" href="http://iOSCallRecorder.com" itemprop="url">
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/overwrite.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/layout.css" rel="stylesheet">
+
+<link rel="stylesheet" href="//cdn.rawgit.com/DoclerLabs/Protip/master/protip.min.css">
+
+<!--[if lt IE 9]>
+     <script src="js/html5shiv.js"></script> 
+     <script src="js/respond.min.js"></script>    
+<![endif]-->
+
+<script>
+  (function(){
+
+    window.ldfdr = window.ldfdr || {};
+    (function(d, s, ss, fs){
+      fs = d.getElementsByTagName(s)[0];
+
+      function ce(src){
+        var cs  = d.createElement(s);
+        cs.src = src;
+        setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1);
+      }
+
+      ce(ss);
+    })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_p1e024BpkeQ8GB6d.js');
+  })();
+</script>
+
+</head>
+
+<body>
+<!--/=== Header Start ===/-->
+<header class="header">
+    <div class="header-inner">
+        <div class="logo"> <a href="#"><img src="images/logo.png" alt="iOS Call Recorder Icon"></a>
+            <span>iOS Call Recorder</span>
+        </div>
+        <a href="javascript:void(0)" class="navbar-toggle" data-toggle="collapse" data-target=".bs-navbar-collapse"> 
+        <span class="icon-bar"></span> 
+        <span class="icon-bar"></span> 
+        <span class="icon-bar"></span></a>        
+        <div class="menu">
+            <div class="collapse navbar-collapse bs-navbar-collapse scroll">
+                <ul class="nav navbar-nav">
+                    <li><a class="sl" href="#features">Features</a></li>
+                    <li><a class="sl" href="#install">How To Install</a></li>
+                    <li><a class="sl" href="#faq">FAQ</a></li>
+                    <li><a href="mailto:callrecorder@hacx.org">Contact</a></li>
+                    <li><a href="#" data-toggle="modal" class="el protip" data-target="#purchaseModal" data-pt-title="New !" data-pt-animate="tada" data-pt-trigger="sticky"  data-pt-position="right" data-pt-size="small" data-pt-auto-hide="5000">Resellers</a></li>
+                    <li><a href="http://india.ioscallrecorder.com" style="display:none">India</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+<!--/=== Header End ===/--> 
+
+<!--/=== Content Start ===/-->
+<section class="content">
+    <div class="banner" id="main">
+        <img src="images/content/banner.jpg" alt="Background Image">
+            <div class="banner-overlay">
+                <h1>iPhone Native Call & VoIP Recorder</h1>
+                   <div class="overlay-btn-outer">
+                    <div class="overlay-btn-first">
+                         <a href="https://cydia.saurik.com/api/share#?source=https://repo.packix.com/&package=org.hacx.callrecorderxplus" target="_blank">Available on<br><span>Cydia</span></a></div>
+                    <div class="overlay-btn-second"><a href="https://hacx.org/purchase?product=CallRecorderXPlus" target="_blank"><span>$</span>2.99/mo</a>
+                        <img src="images/stripe.png" style="margin-top:-4px" alt="Stripe">
+                    </div>
+                </div>
+            </div>
+        <div class="arrow-dwn"><i id="arw-dwn" class="icon-icon15"></i></div>
+    </div>
+    <div class="features-outer" id="features">
+        <div class="container">
+            <div class="row">                
+                <div class="col-sm-12">
+                    <div class="features-phone-block">
+                    	<div class="center-image">
+                    		<img  id="ani-img" class="wow fadeInUp" data-wow-duration="4s" data-wow-delay=".5s" src="images/content/phone.png" alt="image" />
+                    		<div class="top-feature1">
+                    			<h4>Auto Upload To Google Drive</h4>
+                    			<p>Connect your Google Drive account, it will automatically upload your recording once it’s done.</p>
+                    		</div>
+                    		<div class="top-feature2">
+                    			<h4>Natively Record Phone Calls (&amp; VoIP)</h4>
+                    			<p>Start automatically and save all your recordings locally. * Supports: Telegram, WeChat, Skype, Zoom, etc,..</p>
+                    		</div>
+                    		<div class="top-feature3">
+                    			<h4>Supports all iPhones</h4>
+                    			<p>Call Recorder works on jailbroken devices running iOS 8 up to 14</p>
+                    		</div>
+                    		<div class="show-feature-block">
+                    			<a href="#" class="show-more">Show me <span>More</span></a>
+                    		</div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">                
+                <div class="col-sm-12">
+                    <div class="features-area">
+                        <h2>Features</h2>
+                        <div class="row">                
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon10"></span>
+                                    <h4>Auto record all calls or blocked numbers </h4>
+                                    <p>Optionally select to auto start recording 'All Calls', 'Blocked Numbers', 'Unknown Numbers' or specific phone numbers.</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon14"></span>
+                                    <h4>Record bluetooth Phone/VoIP Calls</h4>
+                                    <p>Even calls taken on your bluetooth headphone or car are recorded.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">                
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon12"></span>
+                                    <h4>Protect recordings using FaceID/TouchID</h4>
+                                    <p>Optionally prevent others from accessing the app using your FaceID/TouchID (on iPhone 6 and up) or a 4 digit passcode.</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon6"></span>
+                                    <h4>Easy Internal web access to all your recordings</h4>
+                                    <p>Quickly access recordings from your computer using Safari or Chrome with the internal web server.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">                
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon2"></span>
+                                    <h4>Archive &amp; Zip Recordings</h4>
+                                    <p>In one click you can export all your recordings in 1 zip file.</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon13"></span>
+                                    <h4>Export recordings to Email, Telegram, SMS, ..</h4>
+                                    <p>Long clicking the record name will allow sharing the recording via Email, Telegram, SMS or any other app you have installed.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">                
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon5"></span>
+                                    <h4>Quickly listen to recordings from inside the app</h4>
+                                    <p>Application contains an internal player to listen to your recordings.</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon8"></span>
+                                    <h4>CallBar (Cydia tweak) support</h4>
+                                    <p>If you have CallBar installed, it will have an added recording button inside it's phone actions panel.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">                
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon3"></span>
+                                    <h4>Twitter online customer support</h4>
+                                    <p>Search for @hAcx on twitter to get online support and ask questions about Call Recorder.</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature">
+                                    <span class="icon-icon11"></span>
+                                    <h4>Activator (Cydia tweak) support</h4>
+                                    <p>Use Activator from Cydia to quickly start/stop a recording using any gesture you want.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="install-outer" id="install">
+        <div class="container">
+            <div class="row">                
+                <div class="col-sm-12">
+                    <div class="install-title">
+                        <h2>How to Install &amp; Jailbreak</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">                
+                <div class="col-sm-6">
+                    <div class="grid-block">
+                        <div class="grid-left">
+                            <img src="images/os16.png" alt="iOS 16 Logo">
+                        </div>
+                        <div class="grid-right">
+                            <h3>iOS 15-16</h3>
+                            <p>Go to <a href="https://palera.in/" target="_blank">palera1n</a> or <a href="https://ellekit.space/dopamine/" target="_blank">Dopamine</a> to download the jailbreak tool. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="grid-block">
+                        <div class="grid-left">
+                            <img src="images/os14.png" alt="iOS 14 Logo">
+                        </div>
+                        <div class="grid-right">
+                            <h3>iOS 12-14</h3>
+                            <p>Use <a href="https://checkra.in/" target="_blank">checkra1n</a> or <a href="https://unc0ver.dev/" target="_blank">Unc0ver</a>. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">                
+                <div class="col-sm-12">
+                    <div class="screen-list">
+                        <ul>
+                            <li class="s-left">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-1.jpg" alt="Installation Instructions Screenshot 1">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>1.</strong> Open 'Cydia' app (if you already have it installed, click this <a href="https://cydia.saurik.com/api/share#?source=https://repo.packix.com&package=org.hacx.callrecorderxplus">link</a>)
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-center">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-2.jpg" alt="Installation Instructions Screenshot 2">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>2.</strong> Click 'Sources' at the bottom and than Click 'Edit' 
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-right">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-3.jpg" alt="Installation Instructions Screenshot 3">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>3.</strong> Click 'Add' on the left<br/>
+                                        <strong>3a.</strong> Enter <a href="https://repo.packix.com" target="_blank">https://repo.packix.com</a><br/>
+                                        <strong>3b.</strong> Click 'Add Source'
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-left">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-4.jpg" alt="Installation Instructions Screenshot 4">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>4.</strong> Wait for Cydia to finish
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-center">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-5.jpg" alt="Installation Instructions Screenshot 5">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>5.</strong> Click 'Search' at the bottom<br/>
+                                        <strong>-</strong> Type 'Call Recorder'<br/>
+                                        <strong>-</strong> Click on 'Call Recorder X+ (iOS 12,13,14)'<br/>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-right">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-6.jpg" alt="Installation Instructions Screenshot 6">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>6.</strong> Click 'Install'
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-left">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-7.jpg" alt="Installation Instructions Screenshot 7">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>7.</strong> Click 'Confirm'<br/>
+                                        <strong>7a.</strong> Wait for install to finish
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-center">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-8.jpg" alt="Installation Instructions Screenshot 8">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>8.</strong> Wait for installation to finish<br/>
+                                        <strong>8a.</strong> Click 'Restart SpringBoard'
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-right">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-9.jpg" alt="Installation Instructions Screenshot 9">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>9.</strong> Open 'Call Recorder X+'
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-left">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-10.jpg" alt="Installation Instructions Screenshot 10">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>10.</strong> Enter the activation code you received after purchase
+and Click 'Activate'
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-center">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-11.jpg" alt="Installation Instructions Screenshot 11">
+                                    </div>
+                                    <div class="i-content">
+                                        <strong>11.</strong> Click 'Agree'<br/>
+                                        <strong>11a.</strong> You're Done !
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="s-right">
+                                <div class="iphone">
+                                    <div class="i-screen">
+                                        <img src="images/content/screen-12.jpg" alt="Installation Instructions Screenshot 12">
+                                    </div>
+                                    <div class="i-content">
+                                        The record button will now appear every time you make a Phone or VoIP call
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="faq-outer" id="faq">
+        <div class="container">
+            <div class="row">                
+                <div class="col-sm-12">
+                    <div class="faq-inner">
+                        <h2>FAQ</h2>
+                        <p>Here are a few FAQ to help you getting started or use the application many features.
+You can always use the 'Contact' form to send us an email if your question is not in this list..</p>
+                        <ul>
+                            <li>
+                               <h3>1. How do i install the application ?</h3>
+                                <p> Look at the 'How To Install' page on this site.</p>
+                            </li>
+                            <li>
+                               <h3>2. What is Jailbreak ?</h3> 
+                               <p>Jailbreak is a method for giving your device the ability to use such an awesome tweak. without it call recording is not possible. Look at the 'How To Install' page on this site on how to jailbreak your device.</p>
+                            </li>
+                            <li>
+                                <h3>3. In which cydia repository/source can i find iOS Call Recorder ?</h3>
+                                <p>Add - https://repo.packix.com  to your cydia sources, then search for "Call Recorder (iOS)", select it and click 'Install'.</p>
+                            </li>
+                            <li>
+                                <h3>4. Does iOS Call Recorder requires any external service or making a conference call ?</h3>
+                                <p>No. The beuty of iOS Call Recorder is that it does all the recording straight on your device without using any external service (like calling a spammy call service which does the recording for you).  
+All recordings are saved on the device natively and quickly.  no hidden costs.  it's a one of a kind tweak for iOS which no one has done before.
+ </p>
+                            </li>
+                            <li>
+                                <h3>5. How can i automatically upload my recordings to Google Drive ?</h3>
+                                <p>Open the application and click the 'Settings' button in the application side bar menu.
+Then, click 'Google Drive' and log in to your google drive account.  once done, trigger the required settings (like Manual Sync) and that's it.<br>
+To force uploading to Google Drive, just click the 'Sync Recordings' in the application side bar menu.</p>
+                            </li>
+                            <li>
+                                <h3>6. How can i retrieve my Activation code if i still didn't receive it by email ?</h3>
+                                <p>1. Just open the app again after a few minutes of purchase and it will magically appear.</p>
+<p>2. Send it to you again by email by using this link - <a href="https://hacx.org/restore_code.php?product=CallRecorder" target="_blank">https://hacx.org/restore_code.php?product=CallRecorder</a></p>
+<p>3. Check your SPAM folder. it might be in there.</p>
+<p>4. Send an email to callrecorder@hacx.org and state the payment email you made the purchase with so we can help you retrieve it.</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Resellers Modal -->
+<div class="modal fade" id="purchaseModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Official Resellers</h4>
+      </div>
+      <div class="modal-body">
+       
+       <div class="row">
+
+        <div class="col-md-12">
+	        <div>We know that some countries do not use PayPal, so we partnered up with local resellers in China to let you purchase Call Recorder in Cash or local Credit Cards.</div><br/>
+	        <form class="form-horizontal">
+	
+		        <div class="form-group"> 
+		        <label class="col-md-5 control-label" for="purchase-option">Contact Local Reseller In:</label> 
+		        <div class="col-md-6" class="btn-group" id="purchase-option" > 
+				    <div class="radio"> <label for="china"> 
+				        <input type="radio" name="purchase-option" id="china" value="China" checked="checked"> China (AliPay, WeChat Pay, UnionPay)</label> 
+			        </div>
+			        <!--
+				    <div class="radio"> <label for="india" disabled="true"> 
+				        <input type="radio" name="purchase-option" id="india" value="India" disabled="true"> India (Soon)</label> 
+			        </div>
+			        -->
+		        </div>
+		        </div>
+		         
+	        </form> 
+	    </div> 
+        
+       </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Later</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal" id="buy-btn">Buy</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--/=== Content End ===/--> 
+
+<!--/=== Footer Start ===/-->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="footer-inner">
+                    <div class="social-icon"><a href="http://twitter.com/hacx" target="_blank"><span class="icon-icon4"></span></a></div>
+                    
+                    <div class="copyright">© Copyright 2018 <a href="#">iOS Call Recorder</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--/=== Footer End ===/--> 
+
+<!--/=== Javascript Start ===/--> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script src="js/migrate.min.js"></script> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> 
+<script src="//cdn.rawgit.com/DoclerLabs/Protip/master/protip.min.js"></script>
+<script src="js/main.js"></script> 
+<!--/=== Javascript End ===/-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68125802-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+	
+	$('#buy-btn').on('click', function (event) {
+		
+		
+		var purchaseOption = $('#purchase-option input:radio:checked').val();
+		switch (purchaseOption)
+		{
+			case 'China':
+			var url = 'https://item.taobao.com/item.htm?id=587547300184';
+				window.open(url);
+				break;
+			case 'Call':
+				var url = 'http://333.com';
+				window.open(url);
+				break;
+		}
+	})
+
+    	$.protip();
+</script>
+
+<script src="https://platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('l58d7', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l58d7&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l58d7&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+
+</body>
+</html>
